@@ -1,0 +1,6 @@
+rasterio 
+scikit-learn 
+tensorflow 
+numpy 
+pandas
+xgboost

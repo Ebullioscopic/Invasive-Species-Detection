@@ -29,6 +29,17 @@ The objective is to compare the performance of these models for classifying Kudz
 
 ## Installation
 
+### **Prerequisites**
+- Python 3.6 or higher
+- Libraries: rasterio, scikit-learn, tensorflow, xgboost, numpy, pandas
+
+### **Step-by-Step Setup**
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Ebullioscopic/Invasive-Species-Detection.git
+   cd invasive-species-detection
+   ```
+
 ### Dependencies
 This project is implemented in Python, and the following libraries are required:
 
